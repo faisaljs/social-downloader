@@ -54,7 +54,7 @@ small-to-medium scale). A `Semaphore` caps how many downloads run at once
 ## Quick start (local)
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/faisaljs/social-downloader
 cd social-downloader
 cp .env.example .env
 ./run.sh
